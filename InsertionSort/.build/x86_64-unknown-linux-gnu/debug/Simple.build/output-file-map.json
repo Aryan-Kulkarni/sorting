@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/aryan-kulkarni/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/aryan-kulkarni/Projects/InsertionSort/main.swift": {
+    "dependencies": "/home/aryan-kulkarni/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/aryan-kulkarni/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/aryan-kulkarni/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/aryan-kulkarni/Projects/InsertionSort/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}
